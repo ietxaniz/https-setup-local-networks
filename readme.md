@@ -1,0 +1,1 @@
+This repository is the source code I used to write [https://dev.to/ietxaniz/how-to-implement-https-in-local-networks-using-lets-encrypt-4eh](https://dev.to/ietxaniz/how-to-implement-https-in-local-networks-using-lets-encrypt-4eh) post.
